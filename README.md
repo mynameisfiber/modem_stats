@@ -2,7 +2,7 @@
 
 > Optimum insisted my connection was fine... I thought otherwise
 
-[**CLICK HERE TO SEE THE GOODS**](./Modem Analysis.ipynb)
+[CLICK HERE TO SEE THE GOODS](./Modem Analysis.ipynb)
 
 This repo will scrape stats from an Arris modem, as well as do speed tests,
 every minute. The included jupyter notebook does some stats on the collected
