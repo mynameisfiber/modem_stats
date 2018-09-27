@@ -1,6 +1,8 @@
 #!/bin/bash
 
 BASE_URL='http://192.168.100.1/cgi-bin/'
+
+mkdir ./data/
 while true; do 
     echo -ne '.'
     ./modemstats.py ${BASE_URL}/status_cgi >> ./data/status.json
